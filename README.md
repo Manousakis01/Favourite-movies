@@ -8,7 +8,7 @@
 
 
 
-## Top Gun
+* ## Top Gun
 | 1h 50min | Action, Drama | 3 October 1986 (UK)
 Director: Tony Scott
 Writers: Jim Cash, Jack Epps Jr. | 1 more credit »
