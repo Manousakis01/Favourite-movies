@@ -4,7 +4,7 @@
 |-----------------------|--------------------|---------------|---------------|---------------------------------|----------------------------------------------|
 |[Top Gun](#top-gun)    |Action, Drama       |1968           |Tony Scott     |Jim Cash & Jack Epps Jr.         |Tom Cruise, Tim Robbins, Kelly McGillis       |
 |[Fightclub](#fightclub)|Drama               |1999           |David Fincher  |Chuck Palahniuk & Jim Uhls       |Brad Pitt, Edward Norton, Meat Loaf           |
-|A Clockwork Orange     |Crime, Drama, Sci-Fi|1971           |Stanley Kubrick|Stanley Kubrick & Anthony Burgess|Malcolm McDowell, Patrick Magee, Michael Bates|
+|[A Clockwork Orange]   |Crime, Drama, Sci-Fi|1971           |Stanley Kubrick|Stanley Kubrick & Anthony Burgess|Malcolm McDowell, Patrick Magee, Michael Bates|
 
 
 ## Top Gun
@@ -12,7 +12,7 @@
 Director: Tony Scott
 Writers: Jim Cash, Jack Epps Jr.
 Stars: Tom Cruise, Tim Robbins, Kelly McGillis
-#### Plot
+### Plot:
 As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
 [More Info](https://www.imdb.com/title/tt0092099/?ref_=ttrel_rel_tt)
 
@@ -21,6 +21,15 @@ As students at the United States Navy's elite fighter weapons school compete to 
 Director: David Fincher
 Writers: Chuck Palahniuk (novel), Jim Uhls (screenplay)
 Stars: Brad Pitt, Edward Norton, Meat Loaf
-#### Plot
+### Plot:
 A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power.
 [More Info](https://www.imdb.com/title/tt0137523/plotsummary?ref_=tt_ov_pl)
+
+## A Clockwork Orange
+| 2h 16min | Crime, Drama, Sci-Fi | 13 January 1972 (UK)
+Director: Stanley Kubrick
+Writers: Stanley Kubrick (screenplay), Anthony Burgess (novel)
+Stars: Malcolm McDowell, Patrick Magee, Michael Bates
+### Plot:
+In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.
+[More Info](https://www.imdb.com/title/tt0066921/)
